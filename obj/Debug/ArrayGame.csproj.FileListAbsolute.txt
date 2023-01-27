@@ -1,0 +1,8 @@
+C:\Users\spark\source\repos\ArrayGame\bin\Debug\ArrayGame.exe.config
+C:\Users\spark\source\repos\ArrayGame\bin\Debug\ArrayGame.exe
+C:\Users\spark\source\repos\ArrayGame\bin\Debug\ArrayGame.pdb
+C:\Users\spark\source\repos\ArrayGame\obj\Debug\ArrayGame.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\ArrayGame\obj\Debug\ArrayGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\spark\source\repos\ArrayGame\obj\Debug\ArrayGame.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\ArrayGame\obj\Debug\ArrayGame.exe
+C:\Users\spark\source\repos\ArrayGame\obj\Debug\ArrayGame.pdb
